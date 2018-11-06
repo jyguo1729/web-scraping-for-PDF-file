@@ -23,8 +23,9 @@ output folder
 
 How to Run:
 * If folder “output” does not exist in the release, please create one before running the code
-* Run python URLtoPDF.py 
-Example: python linearRegression.py
+* Run python URLtoPDF.py URL
+Example: python linearRegression.py http://www.math.ucla.edu/~wdduke/
+
 
 The output will contains two parts. One is a csv file containing all links and their description. The other is PDF files in the links which is available to download.
 
