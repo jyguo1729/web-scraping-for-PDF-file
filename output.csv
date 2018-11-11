@@ -1,0 +1,47 @@
+,Description,link
+0,CS 145: Introduction to Data Mining,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/index.html
+1,Data Mining: Concepts and Techniques,http://www.cs.uiuc.edu/%7Ehanj/bk3/
+2,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/01Intro.pdf
+3, Review of probability from a course by David Blei,http://www.cs.princeton.edu/courses/archive/spring07/cos424/scribe_notes/0208.pdf
+4, Machine Learning Math Essentials,http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf
+5,http://cs229.stanford.edu/,http://cs229.stanford.edu/section/cs229-prob.pdf
+6,optimization,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/optimization.pdf
+7,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/02Vector_Data_LinearR.pdf
+8,http://cs229.stanford.edu/notes/cs229-notes1.pdf,http://cs229.stanford.edu/notes/cs229-notes1.pdf
+9,Machine Learning Math Essentials,http://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf
+10,Week 1 Slides,https://piazza.com/class/jmpc925zfo92qs?cid=13
+11,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/03Vector_Data_LogisticR.pdf
+12,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/project_overview.pdf
+13,http://cs229.stanford.edu/notes/cs229-notes1.pdf,http://cs229.stanford.edu/notes/cs229-notes1.pdf
+14,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/04Decision_Tree.pdf
+15,http://www.stat.cmu.edu/~cshalizi/350-2006/lecture-10.pdf,http://www.stat.cmu.edu/~cshalizi/350-2006/lecture-10.pdf
+16,https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm,https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+17,Week 2 Slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Discussion/Discussion_Week2.pdf
+18,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/05SVM.pdf
+19, http://cs229.stanford.edu/notes/cs229-notes3.pdf,http://cs229.stanford.edu/notes/cs229-notes3.pdf
+20,http://cs229.stanford.edu/materials/smo.pdf,http://cs229.stanford.edu/materials/smo.pdf
+21,Week 3 Slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Discussion/CS145 Discussion 3.pdf
+22,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/06NN.pdf
+23,http://neuralnetworksanddeeplearning.com/,http://neuralnetworksanddeeplearning.com/
+24,http://www.deeplearningbook.org/,http://www.deeplearningbook.org/
+25,Week 4 Slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Discussion/CS145 Discussion 4.pdf
+26,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/07kNN.pdf
+27,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/08Evaluation_Classification.pdf
+28,http://scott.fortmann-roe.com/docs/BiasVariance.html,http://scott.fortmann-roe.com/docs/BiasVariance.html
+29,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/09ClusteringBasics.pdf
+30,Week 5 Slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Discussion/CS145 Discussion 5.pdf
+31,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/10GMM.pdf
+32, http://www.stat.cmu.edu/~cshalizi/350/lectures/29/lecture-29.pdf,http://www.stat.cmu.edu/%7Ecshalizi/350/lectures/29/lecture-29.pdf
+33,http://www.cs.ubc.ca/~murphyk/Teaching/CS340-Fall06/reading/mixtureModels.pdf,http://www.cs.ubc.ca/%7Emurphyk/Teaching/CS340-Fall06/reading/mixtureModels.pdf
+34,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/11Evaluation_Clustering.pdf
+35,Week 6 Slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Discussion/Midterm Review.pdf
+36,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/12Set_Data.pdf
+37,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/14Sequence_Data.pdf
+38,http://web.engr.illinois.edu/~hanj/cs512/bk2chaps/chapter_8.pdf,http://web.engr.illinois.edu/~hanj/cs512/bk2chaps/chapter_8.pdf
+39,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/16Text_NB.pdf
+40,http://www.ccs.neu.edu/home/yzsun/classes/2014Fall_CS6220/Slides/NB.pdf,http://www.ccs.neu.edu/home/yzsun/classes/2014Fall_CS6220/Slides/NB.pdf
+41,Week 9 Slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Discussion/CS145 Discussion 9.pdf
+42,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/17Text_TopicModel.pdf
+43,http://arxiv.org/pdf/1212.3900.pdf,http://arxiv.org/pdf/1212.3900.pdf
+44,https://www.cs.princeton.edu/~blei/kdd-tutorial.pdf,https://www.cs.princeton.edu/~blei/kdd-tutorial.pdf
+45,slides,http://web.cs.ucla.edu/~yzsun/classes/2018Fall_CS145/Slides/Final Review.pdf
