@@ -2,7 +2,7 @@
 This project can download pdf files from a given url automatically.
 run urltoPDF.py under command prompt with python 3.7
 
-Main files are in Release folder.
+Main files are in code folder.
 
 Libraries required:
 * pandas
